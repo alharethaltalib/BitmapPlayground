@@ -13,6 +13,7 @@
  position *output(x, y)* is the average value of the input pixel *input(x, y)* and the 4 pixels
  left, right, above and below it. If the input pixel lies at the border, its value may remain
  the same.
+ ![2](https://user-images.githubusercontent.com/18269686/60721072-452d2d00-9f1c-11e9-9bda-bce40db4c607.png)
 
  ### 3. Extract the filters to an external project
  Extract IFilter and all of its implementations to an a separate dll project and reference
