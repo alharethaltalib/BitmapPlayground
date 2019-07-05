@@ -6,6 +6,7 @@
  ### 1. Implement a greyscale filter
  Implement a greyscale filter. There are several possibles formulas for computing
  greyscale images, you are free to choose any.
+ ![1](https://user-images.githubusercontent.com/18269686/60721030-2333aa80-9f1c-11e9-8756-546825fe98ba.png)
  
  ### 2. Implement a moving average filter
  Implement a moving average filter, as follows: The value of each output pixel at the
