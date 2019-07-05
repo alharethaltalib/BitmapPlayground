@@ -3,6 +3,11 @@
  Complete a simple unfinished UI application which allows the application of image filters
  and displays the results.
  
+  ### 1. Open the project 02_BitmapPlayground
+  Familiarize yourself with the project. There is already one filter function available
+  that removes the red component from the image. Try it out. Identify the parts marked
+  with “TODO” in the source code.
+ 
  ### 1. Implement a greyscale filter
  Implement a greyscale filter. There are several possibles formulas for computing
  greyscale images, you are free to choose any.
